@@ -35,30 +35,7 @@ body {
 color 50%is radius of circle, 
 transparent 51%is shadow radius);   but here we have used hsla in place of transparent*/
 .card {
-    /* animation-name: rotate;
-    background-color: var(--primary);
-    background-image:
-        radial-gradient(circle at 100% 0%,
-            hsla(0, 0%, 100%, 0.8) 29.55%,
-            hsla(0, 0%, 100%, 0) 30%),
-
-        radial-gradient(circle at 100% 0%,
-            hsla(0, 0%, 100%, 0.8) 39.55%,
-            hsla(0, 0%, 100%, 0) 40%),
-
-        radial-gradient(circle at 100% 0%,
-            hsla(0, 0%, 100%, 0.8) 49.55%,
-            hsla(0, 0%, 100%, 0) 50%);
-
-    border-radius: 0.5em;
-    box-shadow:
-        0 0 0 hsl(0, 0%, 80%),
-        0 0 0 hsl(0, 0%, 100%),
-        -0.2rem 0 0.75rem 0 hsla(0, 0%, 0%, 0.3);
-    color: hsl(0, 0%, 100%);
-    width: 10.3rem;
-    height: 6.8em;
-    transform: translate3d(0, 0, 0); */
+   
 
     animation-name: rotate;  
     background-color: var(--primary);  
